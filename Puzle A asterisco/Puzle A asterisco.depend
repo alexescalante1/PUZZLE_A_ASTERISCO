@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1592970829 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winapi\puzle a asterisco\main.cpp
+	<iostream>
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1592945273 d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winapi\puzle a asterisco\resource.h
+
+1592954852 source:d:\01. estudio profesional desarrollo\c++\01.aplicaciones desarrolladas\winapi\puzle a asterisco\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
